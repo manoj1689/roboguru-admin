@@ -1,0 +1,126 @@
+{
+  "activeUsers": {
+    "count": "12,452",
+    "growth": "3.5%"
+  },
+  "monthlyRevenue": {
+    "amount": "8,486",
+    "growth": "5.1%"
+  },
+  "congratulations": {
+    "name": "Alisha",
+    "salesIncrease": "72%",
+    "activeUsers": "256K"
+  },
+  "adminProfile": {
+    "name": "Sakura Haruno",
+    "email": "sakuraharuno@roboguru.com"
+  },
+  "userSummary": {
+    "totalIncrease": "48.5%",
+    "newRegistrations": 215,
+    "lastMonth": 572,
+    "totalUsers": "18,756"
+  },
+  "educationOverview": {
+    "totalGrowth": "51.2%",
+    "data": {
+      "Level": 52,
+      "Classes": 30,
+      "Subjects": 18
+    }
+  },
+  "chatActivity": {
+    "totalChats": 128,
+    "activeChats": 15,
+    "newUsers": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "chats": 58,
+        "lastActivity": "12:05 AM",
+        "status": "Active",
+        "avatar": "/images/user.png"
+      },
+      {
+        "id": 2,
+        "name": "Jane Hadson",
+        "chats": 43,
+        "lastActivity": "10:46 PM",
+        "status": "Active",
+        "avatar": "/images/user.png"
+      },
+      {
+        "id": 3,
+        "name": "David Lam’s",
+        "chats": 37,
+        "lastActivity": "Yesterday",
+        "status": "Active",
+        "avatar": "/images/user.png"
+      },
+      {
+        "id": 4,
+        "name": "Cathrin",
+        "chats": 34,
+        "lastActivity": "1 day ago",
+        "status": "Active",
+        "avatar": "/images/user.png"
+      },
+      {
+        "id": 5,
+        "name": "Malesa",
+        "chats": 25,
+        "lastActivity": "1 day ago",
+        "status": "Active",
+        "avatar": "/images/user.png"
+      },
+      {
+        "id": 6,
+        "name": "Prity",
+        "chats": 25,
+        "lastActivity": "2 days ago",
+        "status": "Active",
+        "avatar": "/images/user.png"
+      }
+    ]
+  },
+  "examOverview": {
+    "title": "Exam Overview",
+    "description": "You have done 72% 😀 more sales today. Check your new raising badge in your profile.",
+    "stats": [
+      {
+        "label": "Exams Started",
+        "value": 15,
+        "image": "/images/girl.png",
+        "bgColor": "bg-blue-500"
+      },
+      {
+        "label": "Pending Evaluations",
+        "value": 6,
+        "image": "/images/boy.png",
+        "bgColor": "bg-green-500"
+      },
+      {
+        "label": "Completed Exam",
+        "value": 85,
+        "image": "/images/trophy.png",
+        "bgColor": "bg-yellow-500"
+      }
+    ]
+  },
+  "revenueBreakdown": {
+    "title": "Revenue Breakdown",
+    "labels": ["Subscription's", "Ads", "Course Purchase"],
+    "data": [50, 30, 20],
+    "colors": ["#29ABE2", "#FF6B6B", "#8E71E6"]
+  },
+  "quizExamStatistics": {
+    "title": "Quiz & Exam Statistics",
+    "labels": ["Maths", "Science", "English", "History"],
+    "data": {
+      "2022": [30, 10, 80, 20],
+      "2023": [40, 15, 60, 30],
+      "2024": [20, 10, 90, 25]
+    }
+  }
+}
